@@ -1,0 +1,13 @@
+C:\Users\pankajg\source\repos\Cricket\Cricket\bin\Debug\netcoreapp3.1\Cricket.exe
+C:\Users\pankajg\source\repos\Cricket\Cricket\bin\Debug\netcoreapp3.1\Cricket.deps.json
+C:\Users\pankajg\source\repos\Cricket\Cricket\bin\Debug\netcoreapp3.1\Cricket.runtimeconfig.json
+C:\Users\pankajg\source\repos\Cricket\Cricket\bin\Debug\netcoreapp3.1\Cricket.runtimeconfig.dev.json
+C:\Users\pankajg\source\repos\Cricket\Cricket\bin\Debug\netcoreapp3.1\Cricket.dll
+C:\Users\pankajg\source\repos\Cricket\Cricket\bin\Debug\netcoreapp3.1\Cricket.pdb
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.csprojAssemblyReference.cache
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.csproj.CoreCompileInputs.cache
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.AssemblyInfoInputs.cache
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.AssemblyInfo.cs
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.dll
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.pdb
+C:\Users\pankajg\source\repos\Cricket\Cricket\obj\Debug\netcoreapp3.1\Cricket.genruntimeconfig.cache
